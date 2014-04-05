@@ -1,0 +1,6 @@
+c:\Users\vlad.onyshchenko\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzzTDD\bin\Debug\FizzBuzzTDD.exe.config
+c:\Users\vlad.onyshchenko\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzzTDD\bin\Debug\FizzBuzzTDD.exe
+c:\Users\vlad.onyshchenko\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzzTDD\bin\Debug\FizzBuzzTDD.pdb
+c:\Users\vlad.onyshchenko\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzzTDD\obj\Debug\FizzBuzzTDD.csprojResolveAssemblyReference.cache
+c:\Users\vlad.onyshchenko\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzzTDD\obj\Debug\FizzBuzzTDD.exe
+c:\Users\vlad.onyshchenko\documents\visual studio 2012\Projects\FizzBuzz\FizzBuzzTDD\obj\Debug\FizzBuzzTDD.pdb
